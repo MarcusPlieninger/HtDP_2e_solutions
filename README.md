@@ -72,5 +72,5 @@ There are 528 exercises in total.
 |V.  |    |    |[Generative Recursion](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_five.html)|483|
 |    |    |    |[Intermezzo 5: The Cost of Computation](http://www.ccs.neu.edu/home/matthias/HtDP2e/i5-6.html)|488|
 |VI. |    |    |[Accumulators](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_six.html)|528|
-|    |    |    |[Epiloqgue: Moving On](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_epilogue.html)||
+|    |    |    |[Epilogue: Moving On](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_epilogue.html)||
 
