@@ -1,6 +1,6 @@
 # HtDP_2e_solutions
 
-This project contains solutions to the exercises found in the textbook, [*How to Design Programs, Second Edition*](http://www.ccs.neu.edu/home/matthias/HtDP2e/) by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, and Shriram Krishnamurthi. Thank you to the authors for making this resource available online. I am also grateful for an essay by Peter Norvig called [*Teach Yourself Programming in 10 Years*](http://norvig.com/21-days.html), which first drew my attention to this textbook.
+This project contains solutions to the exercises found in the textbook, [*How to Design Programs, Second Edition*](http://www.ccs.neu.edu/home/matthias/HtDP2e/) by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, and Shriram Krishnamurthi. 
 
 |Start Date|End Date|
 |----------------|--------------|
