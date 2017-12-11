@@ -12,31 +12,6 @@ The purpose of this project is to acquire the fundamentals of systematic program
 |----------------|--------------|
 |December 11, 2017|*IN PROGRESS*|
 
-## Next steps
-
-After completing these exercises, I will move onto the following:
-- [Additional Problem Sets](http://www.ccs.neu.edu/home/matthias/htdp-plus.html)
-- ["Schreibe dein Programm!"](http://www.deinprogramm.de/)
-- [Mathematik für Informatiker I: Diskrete Mathematik und Lineara Algebra](https://www.mat.univie.ac.at/~gerald/ftp/book-mfi/mfi1.pdf)
-- [Mathematik für Informatiker II: Analysis und Statistik](https://www.mat.univie.ac.at/~gerald/ftp/book-mfi/mfi2.pdf)
-- [Structure and Interpretation of the Computer Science Curriculum](https://www2.ccs.neu.edu/racket/pubs/jfp2004-fffk.pdf) and [related ideas](http://www.ccs.neu.edu/home/matthias/Thoughts/Developing_Developers.html)
-- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html) and [related lectures](http://www.swiss.ai.mit.edu/classes/6.001/abelson-sussman-lectures/)
-- [How to Design Classes](http://www.ccs.neu.edu/home/matthias/htdc.html)
-
-Depending on how things go, I may also add the following material as mentioned [here](http://www.programbydesign.org/materials):
-- How to Design Worlds
-- Picturing Programs: An Introduction to Computer Programming
-
-## The Road Ahead
-
-The purpose of working through this material is to lay a solid foundation for learning Java using Standford's iTunes course. After acquiring Java, the plan is to work through Stanford's Swift course with the goal of building an app. I will then work through [Python Programming: An Introduction to Computer Science](http://www.amazon.com/gp/product/1887902996) by John Zelle, followed by [Concepts, Techniques and Models of Computer Programming](https://www.amazon.com/gp/product/0262220695) by Voy and Haridi.
-
-After understanding this material, I will approach the study of algorithms beginning with Cormen and Sedgewick, and, if I make it that far, Knuth. 
-
-A big help in putting together a curriculum for myself was [this essay by Peter Norvig](http://norvig.com/21-days.html).
-
-#### This will take a long time, and I am not sure I have the right stuff. Only one way to find out.
-
 ## Table of Contents and Exercises
 
 There are 528 exercises in total.
@@ -105,3 +80,29 @@ There are 528 exercises in total.
 |VI. |    |    |[Accumulators](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_six.html)|528|
 |    |    |    |[Epilogue: Moving On](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_epilogue.html)||
 
+## Next steps
+
+After completing these exercises, I will move onto the following:
+- [Additional Problem Sets](http://www.ccs.neu.edu/home/matthias/htdp-plus.html)
+- ["Schreibe dein Programm!"](http://www.deinprogramm.de/)
+- [Mathematik für Informatiker I: Diskrete Mathematik und Lineara Algebra](https://www.mat.univie.ac.at/~gerald/ftp/book-mfi/mfi1.pdf)
+- [Mathematik für Informatiker II: Analysis und Statistik](https://www.mat.univie.ac.at/~gerald/ftp/book-mfi/mfi2.pdf)
+- [Structure and Interpretation of the Computer Science Curriculum](https://www2.ccs.neu.edu/racket/pubs/jfp2004-fffk.pdf) and [related ideas](http://www.ccs.neu.edu/home/matthias/Thoughts/Developing_Developers.html)
+- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html) and [related lectures](http://www.swiss.ai.mit.edu/classes/6.001/abelson-sussman-lectures/)
+- [How to Design Classes](http://www.ccs.neu.edu/home/matthias/htdc.html)
+
+Depending on how things go, I may also add the following material as mentioned [here](http://www.programbydesign.org/materials):
+- How to Design Worlds
+- Picturing Programs: An Introduction to Computer Programming
+
+## The Road Ahead
+
+The purpose of working through this material is to lay a solid foundation for learning Java using Standford's iTunes course. After acquiring Java, the plan is to work through Stanford's Swift course with the goal of building an app. I will then work through [Python Programming: An Introduction to Computer Science](http://www.amazon.com/gp/product/1887902996) by John Zelle, followed by [Concepts, Techniques and Models of Computer Programming](https://www.amazon.com/gp/product/0262220695) by Voy and Haridi.
+
+After understanding this material, I will approach the study of algorithms beginning with Cormen and Sedgewick, and, if I make it that far, Knuth. 
+
+A big help in putting together a curriculum for myself was [this essay by Peter Norvig](http://norvig.com/21-days.html).
+
+#### This will take a long time, hopefully not too long, and I am not sure I have the right stuff. 
+
+#### Only one way to find out.
