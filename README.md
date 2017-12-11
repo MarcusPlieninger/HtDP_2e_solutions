@@ -50,7 +50,7 @@ There are 526 exercises in total.
 |    |    |5.4 |[Defining Structure Types](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3astructures%29)||
 |    |    |5.5 |[Computing with Structures](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aeval-structs%29)||
 |    |    |5.6 |[Programming with Structures](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aprogstructs%29)||
-|    |    |5.7 |[The Universe of Data](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._data-uni._sec~3adata-uni%29()||
+|    |    |5.7 |[The Universe of Data](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._data-uni._sec~3adata-uni%29)||
 |    |    |5.8 |[Designing with Structures](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adesignstructs%29)||
 |    |    |5.9 |[Structure in the World](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aworld-structs%29)||
 |    |    |5.10|[A Graphical Editor](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aedit1%29)||
