@@ -4,7 +4,7 @@ This project contains solutions to the exercises found in the textbook, [*How to
 
 ## Purpose
 
-The purpose of this project is to acquire the fundamentals of systematic program design in a relatively short time.
+The purpose of this project is to acquire the fundamentals of systematic program design.
 
 ## Timeline
 
@@ -45,9 +45,9 @@ There are 528 exercises in total.
 |----|----|----|-----|---------|--------------|
 |I.  |    |    |[Fixed-Size Data](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html)|115|
 |    |1.  |    |[Arithmetic](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._ch~3abasic-arithmetic%29)||
-|    |    |1.1 |[The Arithmetic of Numbers](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aarith-num%29)|1|
-|    |    |1.2 |[The Arithmetic of Strings](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aarith-str%29)|2|
-|    |    |1.3 |[Mixing It Up](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aarith-mix%29)|3, 4|
+|    |    |1.1 |[The Arithmetic of Numbers](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aarith-num%29)|1|12/11/17|
+|    |    |1.2 |[The Arithmetic of Strings](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aarith-str%29)|2|12/11/17|
+|    |    |1.3 |[Mixing It Up](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aarith-mix%29)|3, 4|12/11/17|
 |    |    |1.4 |[The Arithmetic of Images](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aarith-images%29)|5, 6|
 |    |    |1.5 |[The Arithmetic of Booleans](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aarith-bools%29)|7|
 |    |    |1.6 |[Mixing It Up with Booleans](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aboolean-if%29)|8|
