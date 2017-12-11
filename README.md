@@ -4,7 +4,7 @@ This project contains solutions to the exercises found in the textbook, [*How to
 
 ## Purpose
 
-The purpose of this project is to acquire the fundamentals of systematic program design in a relatively short time.
+The purpose of this project is to acquire the fundamentals of systematic program design.
 
 ## Timeline
 
