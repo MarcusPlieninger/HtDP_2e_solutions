@@ -53,7 +53,7 @@ There are 528 exercises in total.
 |    |    |1.6 |[Mixing It Up with Booleans](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aboolean-if%29)|8|
 |    |    |1.7 |[Predicates: Know Thy Data](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3apredicates%29)|9, 10|
 |    |2.  |    |[Functions and Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._ch~3afuncs-progs%29)|
-|    |    |2.1 |[Functions](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3afuncs%29)|
+|    |    |2.1 |[Functions](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3afuncs%29)|11, 12, 13, 14, 15, 16, 17, 18, 19, 20|
 |    |    |2.2 |[Computing](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3acomputing%29)|
 |    |    |2.3 |[Composing Functions](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3acomposing%29)|
 |    |    |2.4 |[Global Constants](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aglobal%29)|
