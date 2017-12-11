@@ -8,12 +8,12 @@ This project contains solutions to the exercises found in the textbook, [*How to
 
 ## Table of Contents and Exercises
 
-There are 526 exercises in total.
+There are 528 exercises in total.
 
 |Pt.|Ch.|Sc.|Title|Exercises|Date Completed|
 |----|----|----|-----|---------|--------------|
-|I.  |    |    |[Fixed-Size Data](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html)
-|    |1.  |    |[Arithmetic](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._ch~3abasic-arithmetic%29)
+|I.  |    |    |[Fixed-Size Data](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html)|115|
+|    |1.  |    |[Arithmetic](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._ch~3abasic-arithmetic%29)||
 |    |    |1.1 |[The Arithmetic of Numbers](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aarith-num%29)|1|
 |    |    |1.2 |[The Arithmetic of Strings](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aarith-str%29)|2|
 |    |    |1.3 |[Mixing It Up](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aarith-mix%29)|3, 4|
@@ -60,11 +60,17 @@ There are 526 exercises in total.
 |    |    |6.2 |[Mixing Up Worlds](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aworlds-mix%29)||
 |    |    |6.3 |[Input Errors](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3ainput-errors%29)||
 |    |    |6.4 |[Checking the World](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aworld-checking%29)||
-|    |    |6.5 |[Equality Predicates](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aequality1%29)|115|
+|    |    |6.5 |[Equality Predicates](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aequality1%29)||
 |    |7.  |    |[Summary](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._ch~3asummary1%29)||
-|    |    |    |[Intermezzo 1: Beginning Student Language](http://www.ccs.neu.edu/home/matthias/HtDP2e/i1-2.html)||
-|II. |    |    |[Arbitrarily Large Data](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_two.html)||
-
-
-  
+|    |    |    |[Intermezzo 1: Beginning Student Language](http://www.ccs.neu.edu/home/matthias/HtDP2e/i1-2.html)|128|
+|II. |    |    |[Arbitrarily Large Data](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_two.html)|229|
+|    |    |    |[Intermezzo 2: Quote, Unquote](http://www.ccs.neu.edu/home/matthias/HtDP2e/i2-3.html)|234|
+|III.|    |    |[Abstraction](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_three.html)|299|
+|    |    |    |[Intermezzo 3: Scope and Abstraction](http://www.ccs.neu.edu/home/matthias/HtDP2e/i3-4.html)|309|
+|IV. |    |    |[Intertwined Data](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_four.html)|411|
+|    |    |    |[Intermezzo 4: The Nature of Numbers](http://www.ccs.neu.edu/home/matthias/HtDP2e/i4-5.html)|420|
+|V.  |    |    |[Generative Recursion](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_five.html)|483|
+|    |    |    |[Intermezzo 5: The Cost of Computation](http://www.ccs.neu.edu/home/matthias/HtDP2e/i5-6.html)|488|
+|VI. |    |    |[Accumulators](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_six.html)|528|
+|    |    |    |[Epiloqgue: Moving On](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_epilogue.html)||
 
