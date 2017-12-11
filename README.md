@@ -27,7 +27,7 @@ Depending on how things go, I may also add the following material as mentioned [
 - How to Design Worlds
 - Picturing Programs: An Introduction to Computer Programming
 
-## Further down the road
+## The Road Ahead
 
 The purpose of working through this material is to lay a solid foundation for learning Java using Standford's iTunes course. After acquiring Java, the plan is to work through Stanford's Swift course with the goal of building an app. I will then work through [Python Programming: An Introduction to Computer Science](http://www.amazon.com/gp/product/1887902996) by John Zelle, followed by [Concepts, Techniques and Models of Computer Programming](https://www.amazon.com/gp/product/0262220695) by Voy and Haridi.
 
