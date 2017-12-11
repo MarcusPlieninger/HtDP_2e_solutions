@@ -60,9 +60,9 @@ There are 526 exercises in total.
 |    |    |6.2 |[Mixing Up Worlds](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aworlds-mix%29)||
 |    |    |6.3 |[Input Errors](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3ainput-errors%29)||
 |    |    |6.4 |[Checking the World](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aworld-checking%29)||
-|    |    |6.5 |[Checking the World](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aequality1%29)|115|
-|    |7.  |   |[Summary](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._ch~3asummary1%29)||
-|    |    |   |[Intermezzo 1: Beginning Student Language](http://www.ccs.neu.edu/home/matthias/HtDP2e/i1-2.html)||
+|    |    |6.5 |[Equality Predicates](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aequality1%29)|115|
+|    |7.  |    |[Summary](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._ch~3asummary1%29)||
+|    |    |    |[Intermezzo 1: Beginning Student Language](http://www.ccs.neu.edu/home/matthias/HtDP2e/i1-2.html)||
 |II. |    |    |[Arbitrarily Large Data](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_two.html)||
 
 
