@@ -16,5 +16,5 @@
 
 (image-area cat)
 
-;To run the program, it is necessary to replace "<cat image>" with actual image of cat.
-;Note: The number of pixels in the image is simply the area of the rectangle in which the cat is contained.
+;Note: To run the program, it is necessary to replace "<cat image>" with actual image of cat.
+;The number of pixels in the image is simply the area of the rectangle in which the cat is contained.
