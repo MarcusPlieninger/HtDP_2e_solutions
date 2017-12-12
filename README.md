@@ -85,7 +85,7 @@ There are 528 exercises in total.
 After completing these exercises, I will move onto the following:
 - [Additional Problem Sets](http://www.ccs.neu.edu/home/matthias/htdp-plus.html)
 - ["Schreibe dein Programm!"](http://www.deinprogramm.de/)
-- [Mathematik für Informatiker I: Diskrete Mathematik und Lineara Algebra](https://www.mat.univie.ac.at/~gerald/ftp/book-mfi/mfi1.pdf)
+- [Mathematik für Informatiker I: Diskrete Mathematik und Lineare Algebra](https://www.mat.univie.ac.at/~gerald/ftp/book-mfi/mfi1.pdf)
 - [Mathematik für Informatiker II: Analysis und Statistik](https://www.mat.univie.ac.at/~gerald/ftp/book-mfi/mfi2.pdf)
 - [Structure and Interpretation of the Computer Science Curriculum](https://www2.ccs.neu.edu/racket/pubs/jfp2004-fffk.pdf) and [related ideas](http://www.ccs.neu.edu/home/matthias/Thoughts/Developing_Developers.html)
 - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html) and [related lectures](http://www.swiss.ai.mit.edu/classes/6.001/abelson-sussman-lectures/)
