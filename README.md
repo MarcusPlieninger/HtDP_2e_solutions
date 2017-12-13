@@ -25,7 +25,7 @@ There are 528 exercises in total.
 |    |    |1.3 |[Mixing It Up](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aarith-mix%29)|3, 4|12/11/17|
 |    |    |1.4 |[The Arithmetic of Images](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aarith-images%29)|5, 6|12/12/17|
 |    |    |1.5 |[The Arithmetic of Booleans](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aarith-bools%29)|7|12/12/17|
-|    |    |1.6 |[Mixing It Up with Booleans](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aboolean-if%29)|8|
+|    |    |1.6 |[Mixing It Up with Booleans](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aboolean-if%29)|8|12/12/17
 |    |    |1.7 |[Predicates: Know Thy Data](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3apredicates%29)|9, 10|
 |    |2.  |    |[Functions and Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._ch~3afuncs-progs%29)|
 |    |    |2.1 |[Functions](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3afuncs%29)|11, 12, 13, 14, 15, 16, 17, 18, 19, 20|
