@@ -1,6 +1,6 @@
 ;; The first three lines of this file were inserted by DrRacket. They record metadata
 ;; about the language level of this file in a form that our tools can easily process.
-#reader(lib "htdp-beginner-reader.ss" "lang")((modname HtDP_2e_Exercise.9) (read-case-sensitive #t) (teachpacks ((lib "image.rkt" "teachpack" "2htdp") (lib "universe.rkt" "teachpack" "2htdp"))) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ((lib "image.rkt" "teachpack" "2htdp") (lib "universe.rkt" "teachpack" "2htdp")) #f)))
+#reader(lib "htdp-beginner-reader.ss" "lang")((modname HtDP_2e_Exercise_9) (read-case-sensitive #t) (teachpacks ((lib "image.rkt" "teachpack" "2htdp") (lib "universe.rkt" "teachpack" "2htdp"))) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ((lib "image.rkt" "teachpack" "2htdp") (lib "universe.rkt" "teachpack" "2htdp")) #f)))
 ;Exercise 9. Add the following line to the definitions area of DrRacket:
 ;(define in ...)
 
@@ -24,4 +24,5 @@
                      10
                      20)))))
 
-;Note that the commented out line 12 is an easier way of writing the subexpression on line 13.      
+;Note that the commented out line 12 is an easier way of writing the subexpression on line 13.
+;I verified that this expression produces the correct values as specified.
