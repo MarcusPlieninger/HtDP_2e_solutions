@@ -12,7 +12,7 @@
 
 ;if expression for cat image
 
-(define cat <cat image>)
+(define cat <insert cat image>)
 
 
 (if (> (image-height cat) (image-width cat))
