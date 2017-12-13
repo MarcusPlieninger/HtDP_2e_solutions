@@ -28,7 +28,7 @@
 ;The logical form of this expression is the negation of one premise in a disjunction.
 
 ;The reason for the negation is that whatever the boolean value of sunny is, its negation will determine the action.
-;So, if sunny is true, then it so false that there will be a trip to the mall--unless of course it is Friday.
+;So, if sunny is true, then it is false that there will be a trip to the mall--unless of course it is Friday.
 
 ;4 combinations of Booleans can be assocaited with sunny and friday:
 ;sunny false, friday true
