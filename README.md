@@ -101,8 +101,16 @@ The purpose of working through this material is to lay a solid foundation for le
 
 After understanding this material, I will approach the study of algorithms beginning with Cormen and Sedgewick, and, if I make it that far, Knuth. 
 
+## Credits
+
 A big help in putting together a curriculum for myself was [this essay by Peter Norvig](http://norvig.com/21-days.html).
 
-#### This will take a long time, hopefully not too long, and I am not sure I have the right stuff. 
+I learned of the mathematics books [here](http://gki.informatik.uni-freiburg.de/teaching/ws1011/infoI/).
+
+## Keep Going
+
+#### This will take a long time, hopefully not too long, and I am not sure I have the right stuff.
+
+#### One key factor will be to optimize the curriculum and my process as I proceed.
 
 #### Only one way to find out.
