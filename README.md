@@ -16,19 +16,19 @@ The purpose of this project is to acquire the fundamentals of systematic program
 
 There are 528 exercises in total.
 
-|Pt. |Ch. |Sc. |Title|Exercises|Date Completed| % of Total |
-|----|----|----|-----|---------|--------------|------------|
+|Pt. |Ch. |Sc. |Title|Exercises|Date Completed| % of Total | Daily Time Spent | Total Time Spent
+|----|----|----|-----|---------|--------------|------------|------------------|-----------------|
 |I.  |    |    |[Fixed-Size Data](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html)|115|
 |    |1.  |    |[Arithmetic](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._ch~3abasic-arithmetic%29)||
 |    |    |1.1 |[The Arithmetic of Numbers](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aarith-num%29)|1|12/11/17|
 |    |    |1.2 |[The Arithmetic of Strings](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aarith-str%29)|2|12/11/17|
-|    |    |1.3 |[Mixing It Up](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aarith-mix%29)|3, 4|12/11/17|
+|    |    |1.3 |[Mixing It Up](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aarith-mix%29)|3, 4|12/11/17||03h01m00s|
 |    |    |1.4 |[The Arithmetic of Images](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aarith-images%29)|5, 6|12/12/17|
 |    |    |1.5 |[The Arithmetic of Booleans](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aarith-bools%29)|7|12/12/17|
-|    |    |1.6 |[Mixing It Up with Booleans](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aboolean-if%29)|8|12/12/17
-|    |    |1.7 |[Predicates: Know Thy Data](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3apredicates%29)|9, 10|12/13/17|1.89%|
+|    |    |1.6 |[Mixing It Up with Booleans](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aboolean-if%29)|8|12/12/17||04h06m00s|
+|    |    |1.7 |[Predicates: Know Thy Data](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3apredicates%29)|9, 10|12/13/17|1.89%|00h57m34s|
 |    |2.  |    |[Functions and Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._ch~3afuncs-progs%29)|
-|    |    |2.1 |[Functions](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3afuncs%29)|11, 12, 13, 14, 15, 16, 17, 18, 19, 20|12/13/17|3.79%
+|    |    |2.1 |[Functions](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3afuncs%29)|11, 12, 13, 14, 15, 16, 17, 18, 19, 20|12/14/17|3.79%|03h48m00s|
 |    |    |2.2 |[Computing](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3acomputing%29)|21, 22, 23, 24, 25, 26|
 |    |    |2.3 |[Composing Functions](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3acomposing%29)|27, 28, 29|
 |    |    |2.4 |[Global Constants](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aglobal%29)|30|
@@ -114,3 +114,7 @@ I learned of the mathematics books [here](http://gki.informatik.uni-freiburg.de/
 #### One key factor will be to optimize the curriculum and my process as I proceed.
 
 #### Only one way to find out.
+
+## A Note on Time Spent Figures
+
+I track my time using [RescueTime](https://www.rescuetime.com). A great app.
