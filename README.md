@@ -117,4 +117,4 @@ I learned of the mathematics books [here](http://gki.informatik.uni-freiburg.de/
 
 ## A Note on Time Spent Figures
 
-I track my time using [RescueTime](https://www.rescuetime.com). A great app.
+I track my time using [RescueTime](https://www.rescuetime.com).
