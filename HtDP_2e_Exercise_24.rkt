@@ -9,3 +9,11 @@
 ;Use the stepper to determine the value of (==> #true #false). 
 
 (==> #true #false)
+
+;This is how I think the stepper will proceed:
+;1. Substitute argument #true for parameter x in function body.
+;2. Substitute argument #false for parameter y in function body.
+;3. Determine value of (not #true), which evaluates to #false.
+;4. Determine value of (or #false #false), which evalautes to #false.
+
+;I verified that this is indeed how the stepper proceeds.
