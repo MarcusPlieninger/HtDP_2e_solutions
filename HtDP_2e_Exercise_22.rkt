@@ -24,4 +24,6 @@
 ;"Evaluating a function application proceeds in three steps: DrRacket determines the values of the argument expressions;
 ;it checks that the number of arguments and the number of function parameters are the same;
 ;if so, DrRacket computes the value of the body of the function, with all parameters replaced by the corresponding argument values.
-;This last value is the value of the function application." 
+;This last value is the value of the function application."
+
+;Note that DrRacket does not need to determine the values of the argument expressions here because the expressions are the values.
