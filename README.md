@@ -30,21 +30,21 @@ There are 528 exercises in total.
 |    |2.  |    |[Functions and Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._ch~3afuncs-progs%29)|
 |    |    |2.1 |[Functions](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3afuncs%29)|11, 12, 13, 14, 15, 16, 17, 18, 19, 20|12/14/17|3.79%|03h48m00s|11h52m34s
 |    |    |2.2 |[Computing](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3acomputing%29)|21, 22, 23, 24, 25, 26|12/15/17|4.92%|02h54m00s|14h46m34s
-|    |    |2.3 |[Composing Functions](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3acomposing%29)|27, 28, 29|
-|    |    |2.4 |[Global Constants](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aglobal%29)|30|
-|    |    |2.5 |[Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aprogs%29)|31, 32|
+|    |    |2.3 |[Composing Functions](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3acomposing%29)|27, 28, 29|12/16/17|01h19m00s|
+|    |    |2.4 |[Global Constants](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aglobal%29)|30|12/16/17|
+|    |    |2.5 |[Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aprogs%29)|31, 32|12/16/17|
 |    |3.  |    |[How to Design Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._ch~3ahtdp%29)|33|
-|    |    |3.1 |[Designing Functions](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adesign-func%29)|
-|    |    |3.2 |[Finger Exercises: Functions](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3afinger-design%29)|34, 35, 36, 37, 38|
-|    |    |3.3 |[Domain Knowledge](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adomain%29)|
-|    |    |3.4 |[From Functions to Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adesign%29)|
-|    |    |3.5 |[On Testing](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3atesting%29)|
-|    |    |3.6 |[Designing World Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._.D.K._sec~3adesign-world%29)|39, 40, 41, 42, 43, 44|
-|    |    |3.7 |[Virtual Pet Worlds](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3azoo1%29)|45, 46, 47|
+|    |    |3.1 |[Designing Functions](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adesign-func%29)||12/16/17|
+|    |    |3.2 |[Finger Exercises: Functions](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3afinger-design%29)|34, 35, 36, 37, 38|12/16/17|
+|    |    |3.3 |[Domain Knowledge](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adomain%29)||12/16/17|
+|    |    |3.4 |[From Functions to Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adesign%29)||12/16/17|
+|    |    |3.5 |[On Testing](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3atesting%29)||12/16/17|
+|    |    |3.6 |[Designing World Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._.D.K._sec~3adesign-world%29)|39, 40, 41, 42, 43, 44|12/16/17|
+|    |    |3.7 |[Virtual Pet Worlds](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3azoo1%29)|45, 46, 47|12/16/17|
 |    |4.  |    |[Intervals, Enumerations, and Itemizations](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._ch~3aintervals-enums%29)|
-|    |    |4.1 |[Programming with Conditionals](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3acond%29)||
-|    |    |4.2 |[Computing Conditionally](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aworks%29)|48, 49|
-|    |    |4.3 |[Enumerations](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aenums%29)|50, 51|
+|    |    |4.1 |[Programming with Conditionals](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3acond%29)||12/16/17
+|    |    |4.2 |[Computing Conditionally](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aworks%29)|48, 49|12/16/17|
+|    |    |4.3 |[Enumerations](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aenums%29)|50, 51|12/16/17|
 |    |    |4.4 |[Intervals](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aintervals%29)||
 |    |    |4.5 |[Itemizations](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._itemization._sec~3aitemization%29)||
 |    |    |4.6 |[Designing with Itemizations](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adesign-itemization%29)||
