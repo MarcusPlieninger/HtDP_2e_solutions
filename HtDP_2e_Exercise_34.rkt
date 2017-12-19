@@ -9,7 +9,7 @@
 ;String -> String                                                   ;2. Signature
 ;takes strg and returns only the character in position 0 from strg  ;2. Purpose
 ;;;(define (a strg) "a")                                            ;2. Function header (aka stub), a simplistic function with any piece of
-                                                                    ;   piece of data from output class as function body
+                                                                    ;   data from output class as function body
 ;given: "string", expect: "s"                                       ;3. Construct functional example
 ;given: "batman", expect: "b"                                       ;3. Construct functional example
 ;;;(define (string-first strg)                                      ;4. Take inventory, replace function body with function template
