@@ -14,7 +14,7 @@
 ;given: "batman", expect: "b"                                       ;3. Construct functional example
 ;;;(define (string-first strg)                                      ;4. Take inventory, replace function body with function template
 ;;;  (...strg...))
-(define (string-first strg)                                         ;5. Code, that is replace function body from template with expression that
+(define (string-first strg)                                         ;5. Code--that is, replace function body from template with expression that
   (substring strg 0 1))                                             ;   fulfills purpose statement
 
 ;;;examples were run in interactions area                           ;6. Test examples from step 3 in the interactions area for expected results
