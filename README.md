@@ -32,9 +32,9 @@ There are 528 exercises in total.
 |    |    |2.2 |[Computing](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3acomputing%29)|21, 22, 23, 24, 25, 26|12/15/17|4.92%|02h54m00s|14h46m34s
 |    |    |2.3 |[Composing Functions](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3acomposing%29)|27, 28, 29|12/18/17|5.49%|01h19m00s|16h14m34s
 |    |    |2.4 |[Global Constants](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aglobal%29)|30|12/18/17|5.68%|00h03m00s|16h17m34s
-|    |    |2.5 |[Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aprogs%29)|31, 32|
+|    |    |2.5 |[Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aprogs%29)|31, 32|12/18/17|6.06%|003h36m00s
 |    |3.  |    |[How to Design Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._ch~3ahtdp%29)|33|
-|    |    |3.1 |[Designing Functions](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adesign-func%29)||12/16/17|
+|    |    |3.1 |[Designing Functions](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adesign-func%29)|
 |    |    |3.2 |[Finger Exercises: Functions](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3afinger-design%29)|34, 35, 36, 37, 38||
 |    |    |3.3 |[Domain Knowledge](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adomain%29)|||
 |    |    |3.4 |[From Functions to Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adesign%29)|||
