@@ -5,7 +5,7 @@
 ;which extracts the first character from a non-empty string.
 ;Don’t worry about empty strings.
 
-;;;We use a string (data) to represent a string (information).      ;1. Express how to represent information as data.
+;;;We use a string (data) to represent a string (information).      ;1. Formulate data definitions and express how to represent information as data.
 ;String -> String                                                   ;2. Signature
 ;takes strg and returns only the character in position 0 from strg  ;2. Purpose
 ;;;(define (a strg) "a")                                            ;2. Function header (aka stub), a simplistic function with any piece of
