@@ -33,9 +33,9 @@ There are 528 exercises in total.
 |    |    |2.3 |[Composing Functions](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3acomposing%29)|27, 28, 29|12/18/17|5.49%|01h19m00s|16h14m34s
 |    |    |2.4 |[Global Constants](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aglobal%29)|30|12/18/17|5.68%|00h03m00s|16h17m34s
 |    |    |2.5 |[Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aprogs%29)|31, 32|12/18/17|6.06%|03h36m00s|19h53m34s
-|    |3.  |    |[How to Design Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._ch~3ahtdp%29)|33|
+|    |3.  |    |[How to Design Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._ch~3ahtdp%29)|33|12/19/17|
 |    |    |3.1 |[Designing Functions](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adesign-func%29)|
-|    |    |3.2 |[Finger Exercises: Functions](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3afinger-design%29)|34, 35, 36, 37, 38||
+|    |    |3.2 |[Finger Exercises: Functions](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3afinger-design%29)|34, 35, 36, 37, 38|12/20/17|
 |    |    |3.3 |[Domain Knowledge](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adomain%29)|||
 |    |    |3.4 |[From Functions to Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adesign%29)|||
 |    |    |3.5 |[On Testing](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3atesting%29)|||
@@ -99,7 +99,22 @@ Depending on how things go, I may also add the following material as mentioned [
 
 The purpose of working through this material is to lay a solid foundation for learning Java using Stanford's iTunes courses. After acquiring Java, the plan is to work through Stanford's Swift course with the goal of building an app. I will then work through [Python Programming: An Introduction to Computer Science](http://www.amazon.com/gp/product/1887902996) by John Zelle, followed by [Concepts, Techniques and Models of Computer Programming](https://www.amazon.com/gp/product/0262220695) by Voy and Haridi.
 
-After understanding this material, I will approach the study of algorithms beginning with Cormen and Sedgewick, and, if I make it that far, Knuth. 
+After understanding this material, I will approach the study of algorithms beginning with Cormen and Sedgewick, and, if I make it that far, Knuth.
+
+## Additional Reading
+
+I am collecting a list of books as background to supplement this work (subject to revision):
+
+* Charles Petzold, [*Code: The Hidden Language of Computer Hardware and Software*](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
+* Charles Petzold, [*The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine*](https://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055)
+* Jimy Soni & Rob Goodman [*A Mind at Play: How Claude Shannon Invented the Information Age*](https://www.amazon.com/Mind-Play-Shannon-Invented-Information/dp/1476766681)
+* Douglas R. Hofstadter, [*Gödel, Escher, Bach: An Eternal Golden Braid*](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567)
+* Donald Knuth, [*Literate Programming (Lecture Notes)*](https://www.amazon.com/Literate-Programming-Lecture-Notes-Donald/dp/0937073806)
+* Gary Kasparov, [*Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins*](https://www.amazon.com/Deep-Thinking-Machine-Intelligence-Creativity/dp/161039786X)
+* Frederick P. Brooks Jr., [*The Mythical Man-Month: Essays on Software Engineering*](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
+* Frederick P. Brooks Jr., [*The Design of Design: Essays from a Computer Scientist*](https://www.amazon.com/Design-Essays-Computer-Scientist/dp/0201362988)
+
+(Also consider books by [Niklaus Wirth](https://www.amazon.com/Niklaus-Wirth/e/B001ITTJKY/ref=sr_tc_2_0?qid=1513783154&sr=1-2-ent), [Edsger Dijkstra](https://www.amazon.com/Edsger-Wybe-Dijkstra/e/B001ITYB3O/ref=sr_tc_2_0?qid=1513783201&sr=1-2-ent), etc.)
 
 ## Credits
 
