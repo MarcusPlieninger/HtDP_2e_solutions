@@ -34,11 +34,11 @@ There are 528 exercises in total.
 |    |    |2.4 |[Global Constants](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aglobal%29)|30|12/18/17|5.68%|00h03m00s|16h17m34s
 |    |    |2.5 |[Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aprogs%29)|31, 32|12/18/17|6.06%|03h36m00s|19h53m34s
 |    |3.  |    |[How to Design Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._ch~3ahtdp%29)|33|12/19/17|
-|    |    |3.1 |[Designing Functions](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adesign-func%29)|
+|    |    |3.1 |[Designing Functions](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adesign-func%29)||12/19/17||02h45m00s
 |    |    |3.2 |[Finger Exercises: Functions](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3afinger-design%29)|34, 35, 36, 37, 38|12/20/17|
-|    |    |3.3 |[Domain Knowledge](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adomain%29)|||
-|    |    |3.4 |[From Functions to Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adesign%29)|||
-|    |    |3.5 |[On Testing](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3atesting%29)|||
+|    |    |3.3 |[Domain Knowledge](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adomain%29)||12/20/17||
+|    |    |3.4 |[From Functions to Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adesign%29)||12/20/17||
+|    |    |3.5 |[On Testing](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3atesting%29)||12/20/17||03h50m00s|
 |    |    |3.6 |[Designing World Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._.D.K._sec~3adesign-world%29)|39, 40, 41, 42, 43, 44||
 |    |    |3.7 |[Virtual Pet Worlds](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3azoo1%29)|45, 46, 47||
 |    |4.  |    |[Intervals, Enumerations, and Itemizations](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._ch~3aintervals-enums%29)|
