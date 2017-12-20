@@ -13,4 +13,4 @@
 
 (==> sunny friday)
 
-;Note: Look up definition of "implication" and any associated truth table.
+;Note: Look up the definition of "implication" and any associated truth table in The Elements of Logic.
