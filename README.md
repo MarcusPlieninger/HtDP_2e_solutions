@@ -113,6 +113,7 @@ I am collecting a list of books as background to supplement this work (subject t
 * Gary Kasparov, [*Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins*](https://www.amazon.com/Deep-Thinking-Machine-Intelligence-Creativity/dp/161039786X)
 * Frederick P. Brooks Jr., [*The Mythical Man-Month: Essays on Software Engineering*](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 * Frederick P. Brooks Jr., [*The Design of Design: Essays from a Computer Scientist*](https://www.amazon.com/Design-Essays-Computer-Scientist/dp/0201362988)
+* Stephen P. Barker, [*The Elements of Logic*]*(https://www.amazon.com/Elements-Logic-Stephen-F-Barker/dp/0070037302)
 
 (Also consider books by [Niklaus Wirth](https://www.amazon.com/Niklaus-Wirth/e/B001ITTJKY/ref=sr_tc_2_0?qid=1513783154&sr=1-2-ent), [Edsger Dijkstra](https://www.amazon.com/Edsger-Wybe-Dijkstra/e/B001ITYB3O/ref=sr_tc_2_0?qid=1513783201&sr=1-2-ent), etc.)
 
