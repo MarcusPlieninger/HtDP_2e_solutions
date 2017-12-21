@@ -34,3 +34,8 @@
 ;10.Damage to nervous system
 
 ;11. Urinary output and excretion
+
+;MP: Upon review, is it true that these things are actually events?
+;Some of them seem to be functions to which events may happen.
+;An event must be a discrete occurence in a system.
+;These answers should be made better.
