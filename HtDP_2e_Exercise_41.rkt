@@ -21,7 +21,7 @@
 
 ; "PHYSICAL" CONSTANTS
 
-(define WHEEL-RADIUS 10)                    ;this is the single point of control
+(define WHEEL-RADIUS 30)                    ;this is the single point of control
 (define WHEEL-DISTANCE (* WHEEL-RADIUS 2))
 (define Y-CAR (* WHEEL-RADIUS 3))
 (define ROAD-LENGTH (* 7 (* WHEEL-RADIUS 8)))
@@ -54,12 +54,14 @@
   (empty-scene ROAD-LENGTH SCENE-HEIGHT))
 
 (define TREE
-  (underlay/xy (circle 10 "solid" "green")
-               9 15
-               (rectangle 2 20 "solid" "brown")))
+  (underlay/xy (circle WHEEL-RADIUS "solid" "green")
+               (- WHEEL-RADIUS 1) (* WHEEL-RADIUS 1.5)
+               (rectangle (/ WHEEL-RADIUS 5) (* WHEEL-RADIUS 2) "solid" "brown")))
+; I re-wrote the code for tree given in text in terms of WHEEL-RADIUS so that
+; tree scales with the point of control, WHEEL-RADIUS.
 
 (define BACKGROUND-TREE
-  (place-image TREE (* .75 ROAD-LENGTH) 32.5 BACKGROUND))
+  (place-image TREE (* .75 ROAD-LENGTH) (- SCENE-HEIGHT (/ (image-height TREE) 2)) BACKGROUND))
 ; -32.5 to account for total height of TREE at 35 pixels
 ; and the fact that place-image calculates from center of image.
 ; Thus, you substract 17.5 from SCENE-HEIGHT since y axis increases
