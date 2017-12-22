@@ -62,7 +62,7 @@
 
 (define BACKGROUND-TREE
   (place-image TREE (* .75 ROAD-LENGTH) (- SCENE-HEIGHT (/ (image-height TREE) 2)) BACKGROUND))
-; -32.5 to account for total height of TREE at 35 pixels
+; Given constant definition supplied by text, -32.5 to account for total height of TREE at 35 pixels
 ; and the fact that place-image calculates from center of image.
 ; Thus, you substract 17.5 from SCENE-HEIGHT since y axis increases
 ; positively as you go downward.
