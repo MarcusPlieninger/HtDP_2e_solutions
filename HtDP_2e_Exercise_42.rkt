@@ -19,6 +19,6 @@
 ; will end when the right-most edge of the car will reach the right-most x-coordinate
 ; on the scene, which means the car will not disappear off the screen.
 
-; For expedience, I am duplicating code from exercise 41 and will make the alterations
+; For expedience, I will duplicate code from exercise 41 and make the alterations
 ; as described above.
 
