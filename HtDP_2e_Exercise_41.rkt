@@ -68,9 +68,8 @@
 ; positively as you go downward.
 
 ; A WorldState is a Number.
-;; interpretation: the number of pixels between the left border of the scene
-;; and the car.
-; interpretation: the number of pixels between the e
+; interpretation: the number of pixels between the left border of the scene
+; and the center of the car image.
 
 ; WISH LIST
 
