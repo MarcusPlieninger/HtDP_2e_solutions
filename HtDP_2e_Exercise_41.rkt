@@ -97,24 +97,29 @@
 (check-expect (tock 20) 23)
 (check-expect (tock 78) 81)
 (define (tock ws)
-  (+ ws 3))
+  (+ ws 3)) ; I noticed that when the car is moved by 20 pixels for every clock tick, the end state
+            ; is different: The car still protrudes from the right screen and does not disappear. Why?
 
 ;;;end?
 ; WorldState --> Boolean
 ; ends the world when CAR has travelled ROAD-LENGTH
 (check-expect (last-world? 0) false);testing the extreme
 (check-expect (last-world? (/ ROAD-LENGTH 2)) false);testing a middle point in terms of physical constant
-(check-expect (last-world? (+ ROAD-LENGTH (* 2 WHEEL-DISTANCE) 4)) true);testing for desired outcome in terms of physical constants
+(check-expect (last-world? (+ ROAD-LENGTH (* 2 WHEEL-DISTANCE) 5)) true);testing for desired outcome in terms of physical constants
 (define (last-world? ws)
- (> (tock ws) (+ ROAD-LENGTH (* 2 WHEEL-DISTANCE) 4)))
+ (> (tock ws) (+ ROAD-LENGTH (* 2 WHEEL-DISTANCE) 5)))
 ; I needed to account for the fact that the place-image works from
 ; the center of the image. Therefore, I needed to take into account the
 ; fact that the car still needs to travel one half car length before it
 ; disappears completely off the right side of the scene.
 
-; Furthermore, I needed to add 4 to the limiting condition because of the way
+; Furthermore, I needed to add 5 to the limiting condition because of the way
 ; that images and lines are measured in Racket. Since this is not germane to what is
 ; being taught here, I will look this up later in the documentation.
+
+; Of course, maybe having a thorough knowledge of the documentation will reduce
+; time spent tinkering, so maybe I should do this. On other hand, tinkering can be a source
+; of knwoledge, too, albeit experential and not theoretical.
 
 ;;;main
 ; WorldState --> WorldState
