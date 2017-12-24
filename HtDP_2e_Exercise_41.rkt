@@ -35,6 +35,7 @@
   (circle WHEEL-RADIUS "solid" "black"))    
 (define SPACE                             
   (rectangle WHEEL-DISTANCE (/ WHEEL-RADIUS 8) "solid" "white")) ;divided by 8 to make bottom more flush
+;Note: I need to read up on a potentially better way of doing this since I don't know why I needed to do this.
 (define BOTH-WHEELS                       
   (beside WHEEL SPACE WHEEL))
 
@@ -77,8 +78,14 @@
 ; WorldState --> Image
 ; places the image of the car in the BACKGROUND 
 ; according to the given world state
+(check-expect (render 0) (place-image CAR 0 Y-CAR BACKGROUND-TREE)) ;test for car-image at ws 0, which should result
+                                                                    ;in half of car peaking out from left side of screen
 (check-expect (render 50) (place-image CAR 50 Y-CAR BACKGROUND-TREE))
 (check-expect (render 200) (place-image CAR 200 Y-CAR BACKGROUND-TREE))
+(check-expect (render ROAD-LENGTH) (place-image CAR ROAD-LENGTH Y-CAR BACKGROUND-TREE)) ;test for car-image at ws ROAD-LENGTH, which should
+                                                                                        ;result in half of car peaking out from right side of screen
+(check-expect (render (+ ROAD-LENGTH (* 2 WHEEL-DISTANCE))) (place-image CAR (+ ROAD-LENGTH (* 2 WHEEL-DISTANCE)) Y-CAR BACKGROUND-TREE)) ;test for end state
+
 (define (render ws)
   (place-image CAR ws Y-CAR BACKGROUND-TREE))
 
@@ -97,14 +104,17 @@
 ; ends the world when CAR has travelled ROAD-LENGTH
 (check-expect (last-world? 0) false);testing the extreme
 (check-expect (last-world? (/ ROAD-LENGTH 2)) false);testing a middle point in terms of physical constant
-(check-expect (last-world? (+ ROAD-LENGTH (* 4 WHEEL-DISTANCE))) true);testing for desired outcome in terms of physical constants
+(check-expect (last-world? (+ ROAD-LENGTH (* 2 WHEEL-DISTANCE) 4)) true);testing for desired outcome in terms of physical constants
 (define (last-world? ws)
- (> (tock ws) (+ ROAD-LENGTH (* 4 WHEEL-DISTANCE))))
+ (> (tock ws) (+ ROAD-LENGTH (* 2 WHEEL-DISTANCE) 4)))
 ; I needed to account for the fact that the place-image works from
 ; the center of the image. Therefore, I needed to take into account the
 ; fact that the car still needs to travel one half car length before it
 ; disappears completely off the right side of the scene.
 
+; Furthermore, I needed to add 4 to the limiting condition because of the way
+; that images and lines are measured in Racket. Since this is not germane to what is
+; being taught here, I will look this up later in the documentation.
 
 ;;;main
 ; WorldState --> WorldState
