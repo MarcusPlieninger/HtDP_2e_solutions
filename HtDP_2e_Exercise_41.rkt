@@ -21,7 +21,7 @@
 
 ; "PHYSICAL" CONSTANTS
 
-(define WHEEL-RADIUS 30)                    ;this is the single point of control
+(define WHEEL-RADIUS 10)                    ;this is the single point of control
 (define WHEEL-DISTANCE (* WHEEL-RADIUS 2))
 (define Y-CAR (* WHEEL-RADIUS 3))
 (define ROAD-LENGTH (* 7 (* WHEEL-RADIUS 8)))
@@ -97,8 +97,8 @@
 ; WorldState --> Boolean
 ; ends the world when CAR has travelled ROAD-LENGTH
 (check-expect (last-world? 0) false);testing the extreme
-(check-expect (last-world? 300) false);testing a middle point
-(check-expect (last-world? (+ ROAD-LENGTH (* 4 WHEEL-DISTANCE))) true);testing for desired outcome
+(check-expect (last-world? (/ ROAD-LENGTH 2)) false);testing a middle point in terms of physical constant
+(check-expect (last-world? (+ ROAD-LENGTH (* 4 WHEEL-DISTANCE))) true);testing for desired outcome in terms of physical constants
 (define (last-world? ws)
  (> (tock ws) (+ ROAD-LENGTH (* 4 WHEEL-DISTANCE))))
 ; I needed to account for the fact that the place-image works from
