@@ -17,8 +17,8 @@
 
 ; Accordingly, the stop-when function must be altered, as well. Otherwise, the program
 ; will end when the right-most edge of the car will reach the right-most x-coordinate
-; on the scene, which mean the car will not disappear off the screen.
+; on the scene, which means the car will not disappear off the screen.
 
-; For expedince, I am duplicating code from exercise 41 and will make the alterations
+; For expedience, I am duplicating code from exercise 41 and will make the alterations
 ; as described above.
 
