@@ -31,6 +31,7 @@
 
 (define WHEEL-RADIUS 10)                    ;this is the single point of control
 (define WHEEL-DISTANCE (* WHEEL-RADIUS 2))
+(define CAR-LENGTH (* WHEEL-RADIUS 4))
 (define Y-CAR (* WHEEL-RADIUS 3))
 (define ROAD-LENGTH (* 7 (* WHEEL-RADIUS 8)))
 (define SCENE-HEIGHT (* WHEEL-RADIUS 5))
@@ -78,10 +79,11 @@
 
 ;;;;render
 ; AnimationState --> Image
-; places the image of the car in the background according to the accumulating number of clock ticks
+; places the image of the car in the background according to the current number of clock ticks
 ; (define (render as) <image>);
 (check-expect (render 0) (place-image/align CAR (distance 0) Y-CAR "right" "center" BACKGROUND-TREE))
-(check-expect (render 100) (place-image/align CAR (distance 100) Y-CAR "right" "center" BACKGROUND-TREE))
+(check-expect (render (/ (/ ROAD-LENGTH 2) SPEED)) (place-image/align CAR (distance (/ (/ ROAD-LENGTH 2) 3)) Y-CAR "right" "center" BACKGROUND-TREE))
+(check-expect (render (/ (+ ROAD-LENGTH (* WHEEL-DISTANCE 4)) SPEED)) BACKGROUND-TREE)
 (define (render as)
   (place-image/align CAR (distance as) Y-CAR "right" "center" BACKGROUND-TREE))
 
@@ -97,7 +99,7 @@
 
 ;;;tock
 ; AnimationState --> Number
-; advance the number of clock ticks by one
+; advances the number of clock ticks by one
 ; (define (tock as) 4)
 (check-expect (tock 0) 1)
 (check-expect (tock 100) 101)
@@ -123,15 +125,27 @@
     [to-draw render]
     [stop-when last-world?]))
 
-
-
-
-
-
 ; This program relates to animate from Prologue: How to Program? in the following way:
 
+; This program is similar to animate.
 
-; using the data defintiion to design a program that moves the car according to a sine wave:
+; Animate starts a clock and counts the number of ticks.
+; The clock ticks 28 times per second. Every time the clock ticks, animate applies the function
+; picture-of-rocket to the current clock tick and the scene that this application creates is
+; displayed on the canvas with the help of a distance function definition that returns the
+; distance travelled at the current clock tick given a global physical constant definition for speed.
+
+; This program uses the function tock to star a clock and count the number of ticks (i.e., "(+ as 1)").
+; For each tick of the clock, big-bang obtains the next state of the world from tock by adding 1 to the
+; current number of ticks. With the function named distance, the current number of ticks is used to compute
+; the distance travelled at a given constant velocit at the current state, and render is used to obtain the
+; image of the current state of the world.
+;
+; 
+
+; use the data defintiion to design a program that moves the car according to a sine wave:
+; Note: this will make the car movee forward and backward.
+; The sine wave function will have to be incorporated into distance function.
 
 
 
