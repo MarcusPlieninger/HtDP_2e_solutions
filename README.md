@@ -39,8 +39,8 @@ There are 528 exercises in total.
 |    |    |3.3 |[Domain Knowledge](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adomain%29)||12/20/17||
 |    |    |3.4 |[From Functions to Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adesign%29)||12/20/17||
 |    |    |3.5 |[On Testing](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3atesting%29)||12/20/17||03h50m00s|
-|    |    |3.6 |[Designing World Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._.D.K._sec~3adesign-world%29)|39, 40, 41, 42, 43, 44|12/31/16|08h17m00s|12h07m00s
-|    |    |3.7 |[Virtual Pet Worlds](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3azoo1%29)|45, 46, 47|01/09/17|05h27m00s|17h34m00s
+|    |    |3.6 |[Designing World Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._.D.K._sec~3adesign-world%29)|39, 40, 41, 42, 43, 44|12/31/16||08h17m00s|
+|    |    |3.7 |[Virtual Pet Worlds](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3azoo1%29)|45, 46, 47|01/09/17|05h27m00s||
 |    |4.  |    |[Intervals, Enumerations, and Itemizations](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._ch~3aintervals-enums%29)|
 |    |    |4.1 |[Programming with Conditionals](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3acond%29)||
 |    |    |4.2 |[Computing Conditionally](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aworks%29)|48, 49||
