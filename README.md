@@ -43,7 +43,7 @@ There are 528 exercises in total.
 |    |    |3.7 |[Virtual Pet Worlds](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3azoo1%29)|45, 46, 47|01/09/17||05h27m00s|
 |    |4.  |    |[Intervals, Enumerations, and Itemizations](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._ch~3aintervals-enums%29)|
 |    |    |4.1 |[Programming with Conditionals](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3acond%29)||
-|    |    |4.2 |[Computing Conditionally](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aworks%29)|48, 49||
+|    |    |4.2 |[Computing Conditionally](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aworks%29)|48, 49|01/10/17||01h31m00s
 |    |    |4.3 |[Enumerations](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aenums%29)|50, 51||
 |    |    |4.4 |[Intervals](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aintervals%29)||
 |    |    |4.5 |[Itemizations](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._itemization._sec~3aitemization%29)||
