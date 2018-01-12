@@ -28,11 +28,8 @@
     ; [(string=? "yellow" s) "red"]))
 
 ; The strings above must be replaced by graphical constants.
-; In addition, to have one point of control, it is necessary to define a physical constant,
+; In addition, to having one point of control, it is necessary to define a physical constant,
 ; namely the radius of the traffic light. This will be incorporated into the graphical constants.
-
-(require 2htdp/image)
-(require 2htdp/universe)
 
 ; A TrafficLight is one of the following Strings:
 ; – "red"
@@ -42,6 +39,16 @@
 ; possible states that a traffic light may assume
 
 ; The data definition is an enumeration.
+
+(require 2htdp/image)
+(require 2htdp/universe)
+
+
+; WorldState can be one of three sequential numbers, i.e.:
+;  0 which is associated with the red light
+;  1 which is associated with the green light
+;  2 which is associated with the yellow light
+
 
 ; Physical constant
 
