@@ -6,6 +6,12 @@
 ; and it changes state on every clock tick. What is the most appropriate initial state?
 ; Ask your engineering friends.
 
+; From my own thinking on the quesiton, the most appropriate initial state is a red light.
+; A red light is analogous to an off switch. A green light is like an on switch. A yellow
+; light is like a warning light that the switch will be turned off again. Off is a good
+; default state, for electricity as well as for traffic. Therefore, I am going wiht red as
+; the initial state.
+
 ; TrafficLightState is a number.
 ; INTERPRETATION a number denotes the state of a traffic light
 
@@ -48,17 +54,18 @@
 (define GreenLight (circle TrafficLightRadius "solid" "green"))
 
 ; Now the code from exercise 50 can be updated accordingly as a render function in a world program.
+; Render will have to work in tandem with tock.
 
 ; WorldState -> Image
 ; renders the world state as an image depicting a traffic light 
-(check-expect (render 3) RedLight)
-(check-expect (render 4) GreenLight)
-(check-expect (render 5) YellowLight)
+(check-expect (render 0) RedLight)
+(check-expect (render 1) GreenLight)
+(check-expect (render 2) YellowLight)
 (define (render s)
    (cond
-     [(= (modulo 3 s) 0) RedLight] ; a red light occurs on every multiple of 3
-     [(= (modulo 3 (- s 1)) 0) GreenLight] ; this clause is an extrapolation of the one above
-     [else YellowLight]))
+     [(= 0 s) RedLight]
+     [(= 1 s) GreenLight]
+     [(= 2 s) YellowLight]))
 
 ; Note: having problem with modulo: returns error "modulo: expects an integer as 2nd argument, given #<image>"
 
@@ -66,14 +73,16 @@
 
 ; Wish List
 ; WorldState -> WorldState
+; The clock accumlates 3 ticks before returning to initial position, i.e. 0. This well enable the render
+; funcion to produce the corresponding image.
 (check-expect (tock 0) 1)
-(check-expect (tock 50) 51)
-(check-expect (tock 98) 99)
+(check-expect (tock 1) 2)
+(check-expect (tock 2) 0)
 (define (tock s)
-  (+ s 1))
+  (modulo (+ s 1) 3))
 
 
 (define (TrafficLight s)
-  (big-bang RedLight
-    [on-tick tock 2 100] ; clock ticks every 2 seconds, I'm not including a stop-when function because of limit-expr used here
+  (big-bang 0
+    [on-tick tock 2 9] ; clock ticks every 2 seconds so you can verify the lights, I'm not including a stop-when function because of limit-expr used here
     [on-draw render]))
