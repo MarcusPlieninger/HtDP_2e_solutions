@@ -2,6 +2,12 @@
 
 This project contains solutions to the exercises found in the textbook, [*How to Design Programs, Second Edition*](http://www.ccs.neu.edu/home/matthias/HtDP2e/) by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, and Shriram Krishnamurthi.
 
+Note: On [stackoverflow](https://stackoverflow.com/questions/24236116/difference-between-1st-and-2nd-version-of-how-to-design-programs-htdp), Professor Felleisen responded on 6/17/14 that we should use the [draft](http://www.ccs.neu.edu/home/matthias/HtDP2e/Draft/index.html) version and not the [stable](http://www.ccs.neu.edu/home/matthias/HtDP2e/) one of the second edition with the caveat "unless you are an instructor." For parts V and VI, we should switch to the first edition. At the time he said that he is "developing replacements but no promises." He stated that "Parts VII and VIII will not replaced." Need to research if these instructions are still valid.
+
+For my studies, I am using the [stable](http://www.ccs.neu.edu/home/matthias/HtDP2e/) version (release date 12/24/17) since this seems to be more updated than the [draft](http://www.ccs.neu.edu/home/matthias/HtDP2e/Draft/index.html) version (release date 12/19/17) as of this writing.
+
+The second edition will be released in print on 04/10/18 and will be available at [Amazon](https://www.amazon.com/How-Design-Programs-Introduction-Programming/dp/0262534800/ref=dp_ob_title_bk).
+
 ## Purpose
 
 The purpose of this project is to acquire the fundamentals of systematic program design.
@@ -33,18 +39,18 @@ There are 528 exercises in total.
 |    |    |2.3 |[Composing Functions](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3acomposing%29)|27, 28, 29|12/18/17|5.49%|01h19m00s|16h14m34s
 |    |    |2.4 |[Global Constants](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aglobal%29)|30|12/18/17|5.68%|00h03m00s|16h17m34s
 |    |    |2.5 |[Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aprogs%29)|31, 32|12/18/17|6.06%|03h36m00s|19h53m34s
-|    |3.  |    |[How to Design Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._ch~3ahtdp%29)|33|12/19/17|
-|    |    |3.1 |[Designing Functions](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adesign-func%29)||12/19/17||02h45m00s
-|    |    |3.2 |[Finger Exercises: Functions](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3afinger-design%29)|34, 35, 36, 37, 38|12/20/17|
+|    |3.  |    |[How to Design Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._ch~3ahtdp%29)|33|12/19/17|6.25%|02h45m00s|22h38m34s
+|    |    |3.1 |[Designing Functions](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adesign-func%29)||12/19/17||
+|    |    |3.2 |[Finger Exercises: Functions](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3afinger-design%29)|34, 35, 36, 37, 38|12/20/17|7.20%|03h50m00s|26h28m34s
 |    |    |3.3 |[Domain Knowledge](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adomain%29)||12/20/17||
 |    |    |3.4 |[From Functions to Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adesign%29)||12/20/17||
-|    |    |3.5 |[On Testing](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3atesting%29)||12/20/17||03h50m00s|
-|    |    |3.6 |[Designing World Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._.D.K._sec~3adesign-world%29)|39, 40, 41, 42, 43, 44|12/31/16||08h17m00s|
-|    |    |3.7 |[Virtual Pet Worlds](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3azoo1%29)|45, 46, 47|01/09/17||05h27m00s|
+|    |    |3.5 |[On Testing](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3atesting%29)||12/20/17|||
+|    |    |3.6 |[Designing World Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._.D.K._sec~3adesign-world%29)|39, 40, 41, 42, 43, 44|12/31/16|8.33%|08h17m00s|34h45m34s
+|    |    |3.7 |[Virtual Pet Worlds](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3azoo1%29)|45, 46, 47|01/09/17|8.90%|05h27m00s|40h12m34s
 |    |4.  |    |[Intervals, Enumerations, and Itemizations](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._ch~3aintervals-enums%29)|
 |    |    |4.1 |[Programming with Conditionals](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3acond%29)||
-|    |    |4.2 |[Computing Conditionally](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aworks%29)|48, 49|01/10/17||01h31m00s
-|    |    |4.3 |[Enumerations](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aenums%29)|50, 51||
+|    |    |4.2 |[Computing Conditionally](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aworks%29)|48, 49|01/10/17|9.28%|01h31m00s|41h43m34s
+|    |    |4.3 |[Enumerations](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aenums%29)|50, 51|01/11/17|9.67%|01h56m00s|43h39m34s
 |    |    |4.4 |[Intervals](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aintervals%29)||
 |    |    |4.5 |[Itemizations](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._itemization._sec~3aitemization%29)||
 |    |    |4.6 |[Designing with Itemizations](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adesign-itemization%29)||
@@ -117,7 +123,8 @@ CS
 * Frederick P. Brooks Jr., [*The Design of Design: Essays from a Computer Scientist*](https://www.amazon.com/Design-Essays-Computer-Scientist/dp/0201362988)
 
 Logic
-* Stephen P. Barker, [*The Elements of Logic*]*(https://www.amazon.com/Elements-Logic-Stephen-F-Barker/dp/0070037302)
+* Stephen P. Barker, [*The Elements of Logic*](https://www.amazon.com/Elements-Logic-Stephen-F-Barker/dp/0070037302) 
+(I used this book in college and loved it.)
 
 (Also consider books by [Niklaus Wirth](https://www.amazon.com/Niklaus-Wirth/e/B001ITTJKY/ref=sr_tc_2_0?qid=1513783154&sr=1-2-ent), [Edsger Dijkstra](https://www.amazon.com/Edsger-Wybe-Dijkstra/e/B001ITYB3O/ref=sr_tc_2_0?qid=1513783201&sr=1-2-ent), etc.)
 
