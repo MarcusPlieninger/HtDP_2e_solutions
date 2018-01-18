@@ -11,15 +11,18 @@
 ; Conversely, formulate a completely accurate condition, that is, a Boolean expression
 ; that evaluates to #true precisely when x belongs to the first sub-class of LRCD.
 
-; It is incorrect as the first condition of show because show does not accept String arguments.
+; It is incorrect as the first condition of show because the show function does not consume String arguments,
+; only a world state which has been defined as a number.
 
 (define (show x)
   (cond
-    [(number? (- HEIGHT CENTER) ...]
+    [(= x 0) ...]
     [(<= -3 x -1) ...]
     [(>= x 0) ...]))
 
 ; Observation: When x belongs to the first sub-class of LRCD, it is said to be
-; "resting." That is, the reference point of the rocket image (i.e., its center) is at
-; HEIGHT minus CENTER (i.e. height of image divided by 2). The condition now reflects the
-; subclass referred to as "resting" as accurately as possible.
+; "resting." In other words, the clock-tick event handler has not been called and the
+; world state is always at 0 until the space bar as pressed.
+
+; In addition, the third condition in show must be corrected to (> x 0) for the sake of clarity,
+; but since this is not absolutely necessary, I left it as is.
