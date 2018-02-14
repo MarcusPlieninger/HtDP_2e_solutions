@@ -51,30 +51,40 @@ There are 528 exercises in total.
 |    |    |4.1 |[Programming with Conditionals](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3acond%29)||
 |    |    |4.2 |[Computing Conditionally](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aworks%29)|48, 49|01/10/17|9.28%|01h31m00s|41h43m34s
 |    |    |4.3 |[Enumerations](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aenums%29)|50, 51|01/11/17|9.67%|01h56m00s|43h39m34s
-|    |    |4.4 |[Intervals](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aintervals%29)||
-|    |    |4.5 |[Itemizations](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._itemization._sec~3aitemization%29)||
-|    |    |4.6 |[Designing with Itemizations](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adesign-itemization%29)||
-|    |    |4.7 |[Finite State Worlds](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aworlds-more%29)||
+|    |    |4.4 |[Intervals](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aintervals%29)|52|
+|    |    |4.5 |[Itemizations](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._itemization._sec~3aitemization%29)|53, 54, 55, 56, 57|
+|    |    |4.6 |[Designing with Itemizations](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adesign-itemization%29)|58|
+|    |    |4.7 |[Finite State Worlds](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aworlds-more%29)|59, 60, 61, 62|
 |    |5.  |    |[Adding Structure](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._ch~3astructure%29)||
 |    |    |5.1 |[From Positions to posn structures](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aposn-structures%29)||
 |    |    |5.2 |[Computing with posns](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aeval-posns%29)||
-|    |    |5.3 |[Programming with posn](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aprogramming-posn%29)||
-|    |    |5.4 |[Defining Structure Types](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3astructures%29)||
-|    |    |5.5 |[Computing with Structures](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aeval-structs%29)||
-|    |    |5.6 |[Programming with Structures](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aprogstructs%29)||
-|    |    |5.7 |[The Universe of Data](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._data-uni._sec~3adata-uni%29)||
-|    |    |5.8 |[Designing with Structures](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adesignstructs%29)||
+|    |    |5.3 |[Programming with posn](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aprogramming-posn%29)|63, 64|
+|    |    |5.4 |[Defining Structure Types](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3astructures%29)|65, 66, 67, 68|
+|    |    |5.5 |[Computing with Structures](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aeval-structs%29)|69, 70, 71|
+|    |    |5.6 |[Programming with Structures](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aprogstructs%29)|72, 73, 74, 75|
+|    |    |5.7 |[The Universe of Data](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._data-uni._sec~3adata-uni%29)|76, 77, 78, 79|
+|    |    |5.8 |[Designing with Structures](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3adesignstructs%29)|80, 81, 82|
 |    |    |5.9 |[Structure in the World](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aworld-structs%29)||
-|    |    |5.10|[A Graphical Editor](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aedit1%29)||
-|    |    |5.11|[More Virtual Pets](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3azoo2%29)||
+|    |    |5.10|[A Graphical Editor](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aedit1%29)|83, 84, 85, 86, 87|
+|    |    |5.11|[More Virtual Pets](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3azoo2%29)|88, 89, 90, 91, 92, 93|
 |    |6.  |    |[Itemizations and Structures](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._ch~3amix%29)||
-|    |    |6.1 |[Designing with Itemizations, Again](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._mix._sec~3aitemization-design2%29)||
-|    |    |6.2 |[Mixing Up Worlds](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aworlds-mix%29)||
-|    |    |6.3 |[Input Errors](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3ainput-errors%29)||
-|    |    |6.4 |[Checking the World](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aworld-checking%29)||
-|    |    |6.5 |[Equality Predicates](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aequality1%29)||
+|    |    |6.1 |[Designing with Itemizations, Again](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._mix._sec~3aitemization-design2%29)|94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105|
+|    |    |6.2 |[Mixing Up Worlds](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aworlds-mix%29)|106, 107, 108, 109|
+|    |    |6.3 |[Input Errors](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3ainput-errors%29)|110, 111, 112, 113|
+|    |    |6.4 |[Checking the World](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aworld-checking%29)|114|
+|    |    |6.5 |[Equality Predicates](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aequality1%29)|115|
 |    |7.  |    |[Summary](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._ch~3asummary1%29)||
-|    |    |    |[Intermezzo 1: Beginning Student Language](http://www.ccs.neu.edu/home/matthias/HtDP2e/i1-2.html)|128|
+|Intermezzo|<p align="center">I</p>    |    |[Beginning Student Language](http://www.ccs.neu.edu/home/matthias/HtDP2e/i1-2.html)|128|
+|    |    |    |BSL Vocabulary|
+|    |    |    |BSL Grammar|116, 117, 118, 119, 120
+|    |    |    |BSL Meaning|121, 122|
+|    |    |    |Meaning and Computing|
+|    |    |    |BSL Errors|
+|    |    |    |Boolean Expressions|123|
+|    |    |    |Constant Definitions|124|
+|    |    |    |Structure Type Definitions|125, 126, 127|
+|    |    |    |BSL Tests|128
+|    |    |    |BSL Error Messages|
 |II. |    |    |[Arbitrarily Large Data](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_two.html)|229|
 |    |    |    |[Intermezzo 2: Quote, Unquote](http://www.ccs.neu.edu/home/matthias/HtDP2e/i2-3.html)|234|
 |III.|    |    |[Abstraction](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_three.html)|299|
