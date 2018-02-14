@@ -74,7 +74,7 @@ There are 528 exercises in total.
 |    |    |6.4 |[Checking the World](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aworld-checking%29)|114|
 |    |    |6.5 |[Equality Predicates](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aequality1%29)|115|
 |    |7.  |    |[Summary](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._ch~3asummary1%29)||
-|Intermezzo|<p align="center">I</p>    |    |[Beginning Student Language](http://www.ccs.neu.edu/home/matthias/HtDP2e/i1-2.html)|128|
+|Intermezzo|I |  |[Beginning Student Language](http://www.ccs.neu.edu/home/matthias/HtDP2e/i1-2.html)||
 |    |    |    |BSL Vocabulary|
 |    |    |    |BSL Grammar|116, 117, 118, 119, 120
 |    |    |    |BSL Meaning|121, 122|
