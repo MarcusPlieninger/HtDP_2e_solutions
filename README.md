@@ -24,7 +24,7 @@ There are 528 exercises in total.
 
 |Pt. |Ch. |Sc. |Title|Exercises|Date Completed| % of Total | Daily Time Spent | Total Time Spent
 |----|----|----|-----|---------|--------------|------------|------------------|-----------------|
-|I.  |    |    |[Fixed-Size Data](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html)|115|
+|I.  |    |    |[Fixed-Size Data](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html)||
 |    |1.  |    |[Arithmetic](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._ch~3abasic-arithmetic%29)||
 |    |    |1.1 |[The Arithmetic of Numbers](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aarith-num%29)|1|12/11/17|
 |    |    |1.2 |[The Arithmetic of Strings](http://www.ccs.neu.edu/home/matthias/HtDP2e/part_one.html#%28part._sec~3aarith-str%29)|2|12/11/17|
